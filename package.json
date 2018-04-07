@@ -1,0 +1,16 @@
+{
+  "name": "cognitiving-site",
+  "version": "0.0.1",
+  "description": "Site cognitiving",
+  "main": "index.html",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "Jean",
+  "license": "UNLICENSED"
+}
